@@ -100,11 +100,15 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #FFFFFF;
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: #FFFFFF;
+}
+
+#bloc-8 li a {
+    color: #FFFFFF;
 }
 
 .d-bloc .icon-round,
@@ -284,7 +288,7 @@ a:hover {
 }
 
 #bloc-2-services p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .navbar {
@@ -651,7 +655,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000;
 }
 
 .container {
@@ -677,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -781,16 +785,16 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f96e2d;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #ff5100!important;
     color: #FFFFFF!important;
 }
 
