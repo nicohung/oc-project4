@@ -6,7 +6,25 @@ body{
     -webkit-font-smoothing:antialiased;
     -moz-osx-font-smoothing:grayscale
     }
-    
+
+    #banner-row {
+        display: flex;
+        justify-content: center;
+    }
+
+    #banner-title {
+        width: 700px;
+    }
+
+    #banner-row2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #banner-title2 {
+        width: 700px;
+    }
+
     a,button{
     transition:all .3s ease-in-out;
     outline:none!important
@@ -81,7 +99,7 @@ body{
     }
     
     .texture-paper::before{
-    background:url(img/texture-paper.png);
+    background:url(img/texture-paper.webp);
     background-size:280px 280px
     }
     
@@ -725,19 +743,19 @@ body{
     }
     
     .bg-dots-bg{
-    background-image:url(img/dots-bg.png)
+    background-image:url(img/dots-bg.webp)
     }
     
     .bg-lines-h2-bg{
-    background-image:url(img/lines-h2-bg.png)
+    background-image:url(img/lines-h2-bg.webp)
     }
     
     .bg-atlanta-20made-20sign{
-    background-image:url(img/atlanta%20made%20sign.jpg)
+    background-image:url(img/atlanta%20made%20sign.webp)
     }
     
     .bg-atlanta-20made-20sign-20orange{
-    background-image:url(img/atlanta%20made%20sign%20orange.jpg)
+    background-image:url(img/atlanta%20made%20sign%20orange.webp)
     }
     
     @media (max-width: 1024px){
